@@ -1,7 +1,6 @@
 #!/bin/sh
 
-JAVA_HOME="/usr/lib/jvm/default-jvm/jre"
-JAVA="${JAVA_HOME}/bin/java"
+JAVA="/usr/bin/java"
 
 set -e
 
